@@ -1,6 +1,8 @@
 .cabeçalho {
    background:#000000;
 color: rgb(255,255,255)
+   display: flex;
+justify-content: space-around;
    {
    .cabeçalho-imagem }
       width: 20%
